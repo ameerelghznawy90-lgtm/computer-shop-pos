@@ -1,0 +1,9 @@
+{
+  "name": "Computer Shop POS",
+  "short_name": "Shop POS",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#EAEDED",
+  "theme_color": "#131921",
+  "icons": []
+}
